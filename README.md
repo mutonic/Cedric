@@ -42,12 +42,10 @@
 
 <!-- Github stats -->
 
-https://github-profile-trophy.vercel.app/?username=mutonic
-
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" /></p>
 
-![Cedric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
-
+<p aligh='right'>&nbsp; ![Cedric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
+</p>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=mutonic&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,7 +57,6 @@ https://github-profile-trophy.vercel.app/?username=mutonic
     <a href="https://github.com/mutonic?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
     <a href="mailto:mutoni.cedm@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-    <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Os-Debian-a80030"/></a>
     <a href="https://twitter.com/cedricmtoni"><img src="https://img.shields.io/twitter/follow/cedricmtoni?style=social"/></a>
   </p>
 </p>
