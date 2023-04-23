@@ -44,14 +44,14 @@
 
 https://github-profile-trophy.vercel.app/?username=mutonic
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=varunkt001&show_icons=true&locale=en" alt="varunkt001" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" /></p>
 
 ![Cedric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=mutonic&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mutonic" />
+    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mutonic" />
   </a>
   <p>
     <img src="https://views.whatilearened.today/views/github/mutonic/views.svg"/>
