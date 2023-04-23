@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Cedric Mutoni</h1>
+<h1 align="center">Welcome to my Github Page 👋, My name is Cedric Mutoni</h1>
 
 ## Skills 💪
 
