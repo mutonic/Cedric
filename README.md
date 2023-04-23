@@ -1,11 +1,15 @@
 <h1 align="center">Welcome to my Github Page 👋, My name is Cedric Mutoni</h1>
 
-- 🔭 I’m currently a data scientist 
-- 🌱 I’m currently software development @Microverse
-- 👯 I’m looking to collaborate on a predictive 
+- 🌱 I’m currently studying oftware development @Microverse
+- 🔭 I’m a data scientist 
+- 👯 I’m looking to collaborate on a predictive or Software development projects
 - 💬 Ask me anything about business analytics solutions 
 - 📫 How to reach me: you can reach me from the social media links below
 - ⚡ Languages: Python, Javascript, C++
+
+<!-- Profile views -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
 
 ## Skills 💪
 
@@ -73,6 +77,4 @@
  <a href="https://github.com/mutonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cedric Mutoni" height="30" width="40" /></a>
 </p>
 
-<!-- Profile views -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkt001&label=Profile%20views&color=0e75b6&style=flat" alt="varunkt001" /> </p>
