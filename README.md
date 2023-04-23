@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github Page 👋, My name is Cedric Mutoni</h1>
 
-- 🌱 I’m currently studying oftware development @Microverse
+- 🌱 I’m currently studying Software development @Microverse
 - 🔭 I’m a data scientist 
 - 👯 I’m looking to collaborate on a predictive or Software development projects
 - 💬 Ask me anything about business analytics solutions 
