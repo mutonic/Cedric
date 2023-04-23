@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, My name is Cedric Mutoni</h1>
+<h1 align="center">Hi 👋, My name is Cedric Mutoni</h1>
 
 ## Skills 💪
 
@@ -42,10 +42,11 @@
 
 <!-- Github stats -->
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" /></p>
+<p align="left">&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" />
+</p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=mutonic&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <p>
     <img src="https://views.whatilearened.today/views/github/mutonic/views.svg"/>
     <a href="https://github.com/mutonic?tab=followers"><img src="https://img.shields.io/github/followers/mutonic?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
