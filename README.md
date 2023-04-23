@@ -1,5 +1,12 @@
 <h1 align="center">Welcome to my Github Page 👋, My name is Cedric Mutoni</h1>
 
+- 🔭 I’m currently a data scientist 
+- 🌱 I’m currently software development @Microverse
+- 👯 I’m looking to collaborate on a predictive 
+- 💬 Ask me anything about business analytics solutions 
+- 📫 How to reach me: you can reach me from the social media links below
+- ⚡ Languages: Python, Javascript, C++
+
 ## Skills 💪
 
 <p>
@@ -56,3 +63,16 @@
     <a href="https://twitter.com/cedricmtoni"><img src="https://img.shields.io/twitter/follow/cedricmtoni?style=social"/></a>
   </p>
 </p>
+
+<!-- Socials -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/mutoni-cedric/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cedric Mutoni" height="30" width="40" /></a>
+<a href="https://twitter.com/cedricmtoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cedric Mutoni" height="30" width="40" /></a>
+ <a href="https://github.com/mutonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cedric Mutoni" height="30" width="40" /></a>
+</p>
+
+<!-- Profile views -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkt001&label=Profile%20views&color=0e75b6&style=flat" alt="varunkt001" /> </p>
