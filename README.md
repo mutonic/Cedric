@@ -36,14 +36,17 @@
 <!-- github -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white' />
 
-<!-- heroku -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white' />
+<!-- Machine Learning -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Machine Learning-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white' />
 
 <!-- netlify -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white' />
 
 <!-- mongodb -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white' />
+
+<!-- Deep Learning -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Deep Learning-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white' />
 
 </p>
 
