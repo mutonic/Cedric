@@ -37,7 +37,7 @@
 <img width ='80px' height='25px' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white' />
 
 <!-- Machine Learning -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Machine Learning-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white' />
+<img width ='80px' height='25px' src='https://img.shields.io/badge/ML-Machine%20Learning-brightgreen' />
 
 <!-- netlify -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white' />
