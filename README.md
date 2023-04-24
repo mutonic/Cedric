@@ -46,7 +46,7 @@
 <img width ='80px' height='25px' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white' />
 
 <!-- Deep Learning -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Deep Learning-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white' />
+<img width ='80px' height='25px' src='https://img.shields.io/badge/DL-Deep%20Learning-blue' />
 
 </p>
 
