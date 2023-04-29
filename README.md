@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my Github Page 👋, My name is Cedric Mutoni</h1>
+<h1 align="center">Welcome to my Github Page 👋, My name is Cedric</h1>
 
 - 🌱 I’m currently studying Software development @Microverse
 - 🔭 I’m a data scientist 
-- 👯 I’m looking to collaborate on a predictive or Software development projects
-- 💬 Ask me anything about business analytics solutions 
+- 👯 I’m looking to collaborate Software development projects or on a combination of data science and software development
+- 💬 Ask me anything about front-end development or business analytics solutions 
 - 📫 How to reach me: you can reach me from the social media links below
 - ⚡ Languages: Python, Javascript, C++
 
@@ -57,7 +57,7 @@
 <!-- Github stats -->
 
 <p align="left">&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mutonic&show_icons=true&locale=en" alt="mutonic" />
 </p>
 
 <p>
