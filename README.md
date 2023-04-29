@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
 
-## Skills 💪
+<h2 align='center'>Skills 💪</h2>
 
 <p align='center'>
 
