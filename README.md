@@ -9,7 +9,7 @@
 
 <!-- Profile views -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
 
 ## Skills 💪
 
@@ -61,7 +61,7 @@
 </p>
 
 <p>
-  <p>
+  <p align='center'>
     <img src="https://views.whatilearened.today/views/github/mutonic/views.svg"/>
     <a href="https://github.com/mutonic?tab=followers"><img src="https://img.shields.io/github/followers/mutonic?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/mutonic?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
