@@ -9,11 +9,11 @@
 
 <!-- Profile views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mutonic&label=Profile%20views&color=0e75b6&style=flat" alt="Cedric Mutoni" /> </p>
 
 ## Skills 💪
 
-<p>
+<p align='center'>
 
 <!-- html5 -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white' />
