@@ -51,11 +51,10 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br>
  </div>
  <div align="left">
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false">
+ <img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
  </div>
- <div align="right">
-<img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-</div><hr>
+<hr>
 <div align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&theme=react-dark" />
