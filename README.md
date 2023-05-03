@@ -46,14 +46,13 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 
 <br><br>
+<br><br>
 <h1> 📊 GitHub Stats:</h1>
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br>
- </div>
- <div align="left">
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false">
- <img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
- </div>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
+<img width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+</div><hr>
 <hr>
 <div align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
