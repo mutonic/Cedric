@@ -53,7 +53,3 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
 </div><hr>
 <hr>
-<div align="center">
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-  [![Cedric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&theme=dracula)](https://github.com/mutonic/github-readme-activity-graph)
-</div>
