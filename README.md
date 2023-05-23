@@ -55,5 +55,5 @@
 <hr>
 <div align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&theme=react-dark" />
+  [![Cedric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mutonic&theme=dracula)](https://github.com/mutonic/github-readme-activity-graph)
 </div>
