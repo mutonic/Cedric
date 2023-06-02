@@ -53,4 +53,4 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
 </div><hr>
 <hr>
-![Cedric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mutonic&bg_color=000000&color=e6e6e6&line=eeffe5&point=0055ff&area=true&hide_border=true)
+[![Devendra-alt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devendra-alt&bg_color=000000&color=e6e6e6&line=eeffe5&point=0055ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
