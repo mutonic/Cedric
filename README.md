@@ -51,5 +51,6 @@
 <div align="center">
   | <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mutonic&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Cedric's github stats" /></a>  |   <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&langs_count=5" /></a> | <br>
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
+  [![Cedric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mutonic&bg_color=000000&color=e6e6e6&line=eeffe5&point=0055ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div><hr>
 <hr>
