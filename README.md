@@ -49,7 +49,7 @@
 <br><br>
 <h1> 📊 GitHub Stats:</h1>
 <div align="center">
-  | <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mutonic&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Cedric's github stats" /></a>  |   <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&langs_count=5" /></a> | <br>
+  | <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mutonic&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Cedric's github stats" /></a> <br>  |   <a href="https://github.com/mutonic/mutonic"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutonic&langs_count=5" /></a> | <br>
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutonic&theme=dark&hide_border=false"><br>
 </div><hr>
 <hr>
